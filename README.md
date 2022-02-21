@@ -2,7 +2,7 @@
 ||||Flipkart||Amazon|
 |:--------:|:-------:|:-------:|:-------:|:-----:|:-------:|
 |Service Desk|query resolved?||1||1|
-||Chat Service Available|responded withinin a minute **(5)** <br> responded within 5 minutes **(4)** <br> responded between 5 to 15 minutes **(3)** <br> responded after 15 minutes **<br>** responded thereafter **(1)** <br> not responded **(0)** <br> service not used but available|1||5|
+||Chat Service Available|responded withinin a minute **(5)** <br> responded within 5 minutes **(4)** <br> responded between 5 to 15 minutes **(3)** <br> responded after 15 minutes **<2>** <br> responded thereafter **(1)** <br> not responded **(0)** <br> service not used but available|1||5|
 || 24*7 Assistance||1||1|
 || call service available|responded withinin a minute **(5)** <br> responded within 5 minutes **(4)** <br> responded between 5 to 15 minutes **(3)** <br> responded after 15 minutes **(2)** <br> responded thereafter **(1)** <br> not responded **(0)** <br> service not used but available|2||5|
 Service Quality|on stock/Availability||1||1|
@@ -20,4 +20,4 @@ Product| (Color/Variety) Availibility | |0||1|
 ||Offer Available (Credit Card off Etc)||1||1|
 ||**Total Credit (out of 20)**||11.25||18.75|
 ||**Rating(out of 5)** ||2.8125||4.6875|
-||Cutoff 3 or above - Good Service <br> below 3- not satisfied or Bad Service||
+||**Cutoff 3 or above - Good Service <br> below 3- not satisfied or Bad Service**||
